@@ -19,6 +19,10 @@
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
+
+[![Divyajot's github stats](https://github-readme-stats.vercel.app/api?username=divyajot98)](https://github.com/divyajot98/github-readme-stats)
+
+
 ### Reach out to me 👓
 
 |  <a href="https://github.com/divyajot98/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
